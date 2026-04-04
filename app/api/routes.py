@@ -19,11 +19,21 @@ router = APIRouter()
 ##### TODO (Optional): Feel free to add more fields to the response models as you see fit
 
 @router.get("/health", response_model=HealthResponse)
-async def health_check() -> HealthResponse:
+async def health_check(request: Request) -> HealthResponse:
     """Health check endpoint. Returns service status and index info."""
+    has_client = hasattr(request.app.state, "client")
+    has_collection = hasattr(request.app.state, "collection")
+
+    if not has_client or not has_collection:
+        raise HTTPException(
+            status_code=503,
+            detail="Service dependencies are not initialized",
+        )
+
     return HealthResponse(
         status="healthy",
-        version="0.0.0",
+        version="0.1.0",
+        service="survey-question-retrieval-ranking-api",
     )
 
 
