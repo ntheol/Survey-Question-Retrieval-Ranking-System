@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "q_001",
+    "text": "How often do you purchase organic food products?",
+    "category": "Consumer Behavior",
+    "subcategory": "Food & Grocery",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["organic", "food", "purchasing habits", "health-conscious"]
+  },
+  {
+    "id": "q_002",
+    "text": "Which factors most influence your decision when choosing a grocery store?",
+    "category": "Consumer Behavior",
+    "subcategory": "Food & Grocery",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["grocery", "store selection", "price", "convenience"]
+  },
+  {
+    "id": "q_003",
+    "text": "Rank the following attributes in order of importance when buying clothing: price, brand, sustainability, comfort, style.",
+    "category": "Consumer Behavior",
+    "subcategory": "Fashion & Apparel",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["clothing", "fashion", "brand loyalty", "sustainability"]
+  },
+  {
+    "id": "q_004",
+    "text": "How satisfied are you with your current primary online shopping platform?",
+    "category": "Consumer Behavior",
+    "subcategory": "E-Commerce",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["e-commerce", "online shopping", "satisfaction", "platform"]
+  },
+  {
+    "id": "q_005",
+    "text": "Describe what would make you switch from your current favorite brand to a competitor.",
+    "category": "Consumer Behavior",
+    "subcategory": "Brand Loyalty",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["brand loyalty", "switching behavior", "competition"]
+  },
+  {
+    "id": "q_006",
+    "text": "How frequently do you make impulse purchases when shopping online?",
+    "category": "Consumer Behavior",
+    "subcategory": "E-Commerce",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["impulse buying", "online shopping", "spending habits"]
+  },
+  {
+    "id": "q_007",
+    "text": "Which of the following product categories do you most frequently purchase through subscription services?",
+    "category": "Consumer Behavior",
+    "subcategory": "Subscription Services",
+    "demographic_focus": "millennials",
+    "answer_type": "multiple_selection",
+    "tags": ["subscription", "recurring purchase", "convenience", "DTC"]
+  },
+  {
+    "id": "q_008",
+    "text": "Rate your likelihood of purchasing a product recommended by a social media influencer.",
+    "category": "Consumer Behavior",
+    "subcategory": "Social Commerce",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["influencer", "social media", "purchase intent", "trust"]
+  },
+  {
+    "id": "q_009",
+    "text": "Rank the following channels by how much they influence your purchase decisions: TV ads, social media, word of mouth, online reviews, in-store displays.",
+    "category": "Consumer Behavior",
+    "subcategory": "Advertising & Influence",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["advertising", "purchase influence", "media channels"]
+  },
+  {
+    "id": "q_010",
+    "text": "How much do you typically spend per month on non-essential consumer goods?",
+    "category": "Consumer Behavior",
+    "subcategory": "Spending Patterns",
+    "demographic_focus": "professionals",
+    "answer_type": "single_selection",
+    "tags": ["spending", "disposable income", "non-essential", "budget"]
+  },
+  {
+    "id": "q_011",
+    "text": "Which ethical considerations affect your purchasing decisions?",
+    "category": "Consumer Behavior",
+    "subcategory": "Ethical Consumption",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["ethics", "fair trade", "sustainability", "conscious consumer"]
+  },
+  {
+    "id": "q_012",
+    "text": "How important is same-day or next-day delivery when making an online purchase?",
+    "category": "Consumer Behavior",
+    "subcategory": "E-Commerce",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["delivery", "speed", "e-commerce", "convenience"]
+  },
+  {
+    "id": "q_013",
+    "text": "What motivates you to try a completely new product or brand you have never used before?",
+    "category": "Consumer Behavior",
+    "subcategory": "Brand Loyalty",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["new product", "trial", "motivation", "brand switching"]
+  },
+  {
+    "id": "q_014",
+    "text": "How often do you read online reviews before making a purchase over $50?",
+    "category": "Consumer Behavior",
+    "subcategory": "Research & Reviews",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["reviews", "research", "purchase decision", "trust"]
+  },
+  {
+    "id": "q_015",
+    "text": "Which types of loyalty programs are you currently enrolled in?",
+    "category": "Consumer Behavior",
+    "subcategory": "Loyalty Programs",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["loyalty", "rewards", "points", "membership"]
+  },
+  {
+    "id": "q_016",
+    "text": "Rate your overall satisfaction with buy-now-pay-later services for consumer purchases.",
+    "category": "Consumer Behavior",
+    "subcategory": "Payment Methods",
+    "demographic_focus": "millennials",
+    "answer_type": "rating",
+    "tags": ["BNPL", "payment", "credit", "fintech"]
+  },
+  {
+    "id": "q_017",
+    "text": "Rank the following in terms of how much they increase your trust in an online seller: verified reviews, return policy, brand recognition, secure payment badge, customer service availability.",
+    "category": "Consumer Behavior",
+    "subcategory": "E-Commerce",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["trust", "e-commerce", "online seller", "security"]
+  },
+  {
+    "id": "q_018",
+    "text": "How often do you buy second-hand or refurbished products?",
+    "category": "Consumer Behavior",
+    "subcategory": "Sustainable Shopping",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["second-hand", "refurbished", "sustainability", "thrift"]
+  },
+  {
+    "id": "q_019",
+    "text": "Which of the following do you consider before purchasing personal care products?",
+    "category": "Consumer Behavior",
+    "subcategory": "Personal Care",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["personal care", "ingredients", "cruelty-free", "skincare"]
+  },
+  {
+    "id": "q_020",
+    "text": "Describe your ideal shopping experience, whether online or in-store.",
+    "category": "Consumer Behavior",
+    "subcategory": "Shopping Experience",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["shopping experience", "retail", "customer journey", "preferences"]
+  },
+  {
+    "id": "q_021",
+    "text": "How frequently do you compare prices across multiple retailers before buying electronics?",
+    "category": "Consumer Behavior",
+    "subcategory": "Electronics & Gadgets",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["price comparison", "electronics", "research", "value"]
+  },
+  {
+    "id": "q_022",
+    "text": "Rate how much packaging sustainability influences your choice between two similar products.",
+    "category": "Consumer Behavior",
+    "subcategory": "Sustainable Shopping",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["packaging", "sustainability", "eco-friendly", "product choice"]
+  },
+  {
+    "id": "q_023",
+    "text": "Which grocery delivery or meal-kit services have you used in the past six months?",
+    "category": "Consumer Behavior",
+    "subcategory": "Food & Grocery",
+    "demographic_focus": "professionals",
+    "answer_type": "multiple_selection",
+    "tags": ["grocery delivery", "meal kit", "convenience", "food"]
+  },
+  {
+    "id": "q_024",
+    "text": "How often do you purchase products directly through social media platforms?",
+    "category": "Consumer Behavior",
+    "subcategory": "Social Commerce",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["social commerce", "Instagram", "TikTok", "direct purchase"]
+  },
+  {
+    "id": "q_025",
+    "text": "Rank the following reasons you abandon an online shopping cart: high shipping cost, complicated checkout, found a better price elsewhere, not ready to buy, security concerns.",
+    "category": "Consumer Behavior",
+    "subcategory": "E-Commerce",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["cart abandonment", "checkout", "e-commerce", "friction"]
+  },
+  {
+    "id": "q_026",
+    "text": "Rate your interest in purchasing products that use augmented reality try-on features.",
+    "category": "Consumer Behavior",
+    "subcategory": "Emerging Tech in Retail",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["augmented reality", "try-on", "innovation", "retail tech"]
+  },
+  {
+    "id": "q_027",
+    "text": "How much do celebrity endorsements influence your buying decisions for luxury goods?",
+    "category": "Consumer Behavior",
+    "subcategory": "Advertising & Influence",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["celebrity", "endorsement", "luxury", "influence"]
+  },
+  {
+    "id": "q_028",
+    "text": "What is the primary reason you choose to shop in physical stores instead of online?",
+    "category": "Consumer Behavior",
+    "subcategory": "Shopping Experience",
+    "demographic_focus": "seniors",
+    "answer_type": "open_ended",
+    "tags": ["in-store", "physical retail", "preference", "experience"]
+  },
+  {
+    "id": "q_029",
+    "text": "Which payment methods do you use most frequently for everyday purchases?",
+    "category": "Consumer Behavior",
+    "subcategory": "Payment Methods",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["payment", "credit card", "mobile pay", "cash"]
+  },
+  {
+    "id": "q_030",
+    "text": "How often do you purchase products marketed as limited edition or exclusive?",
+    "category": "Consumer Behavior",
+    "subcategory": "Spending Patterns",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["limited edition", "exclusivity", "scarcity", "hype"]
+  },
+  {
+    "id": "q_031",
+    "text": "How frequently do you use mobile payment apps such as Apple Pay, Google Pay, or Venmo?",
+    "category": "Financial Behavior",
+    "subcategory": "Digital Payments",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["mobile payments", "fintech", "digital wallet", "contactless"]
+  },
+  {
+    "id": "q_032",
+    "text": "Which types of financial products do you currently hold?",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Products",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["savings", "investments", "insurance", "credit"]
+  },
+  {
+    "id": "q_033",
+    "text": "Rate your confidence in managing your personal finances effectively.",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Literacy",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["financial literacy", "confidence", "money management"]
+  },
+  {
+    "id": "q_034",
+    "text": "Rank the following savings goals by personal priority: emergency fund, retirement, vacation, home purchase, education.",
+    "category": "Financial Behavior",
+    "subcategory": "Savings & Goals",
+    "demographic_focus": "professionals",
+    "answer_type": "ranking",
+    "tags": ["savings", "goals", "retirement", "financial planning"]
+  },
+  {
+    "id": "q_035",
+    "text": "Describe your approach to budgeting on a monthly basis.",
+    "category": "Financial Behavior",
+    "subcategory": "Budgeting",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["budgeting", "monthly expenses", "planning", "discipline"]
+  },
+  {
+    "id": "q_036",
+    "text": "How often do you check your bank account or financial app balances?",
+    "category": "Financial Behavior",
+    "subcategory": "Digital Banking",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["banking app", "financial tracking", "digital banking"]
+  },
+  {
+    "id": "q_037",
+    "text": "Which investment vehicles are you currently invested in?",
+    "category": "Financial Behavior",
+    "subcategory": "Investing",
+    "demographic_focus": "professionals",
+    "answer_type": "multiple_selection",
+    "tags": ["stocks", "bonds", "crypto", "ETF", "investing"]
+  },
+  {
+    "id": "q_038",
+    "text": "Rate your comfort level with using cryptocurrency for everyday transactions.",
+    "category": "Financial Behavior",
+    "subcategory": "Cryptocurrency",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["cryptocurrency", "Bitcoin", "blockchain", "digital currency"]
+  },
+  {
+    "id": "q_039",
+    "text": "Rank the following factors when choosing a bank: interest rates, mobile app quality, branch accessibility, customer service, fees.",
+    "category": "Financial Behavior",
+    "subcategory": "Banking Preferences",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["bank selection", "interest rates", "mobile banking", "fees"]
+  },
+  {
+    "id": "q_040",
+    "text": "What is the biggest financial challenge you currently face?",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Challenges",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["financial challenge", "debt", "income", "expenses"]
+  },
+  {
+    "id": "q_041",
+    "text": "Do you currently use any automated savings or round-up investment tools?",
+    "category": "Financial Behavior",
+    "subcategory": "Fintech Tools",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["automated savings", "round-up", "fintech", "micro-investing"]
+  },
+  {
+    "id": "q_042",
+    "text": "Which types of insurance coverage do you currently maintain?",
+    "category": "Financial Behavior",
+    "subcategory": "Insurance",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["insurance", "health", "auto", "life", "coverage"]
+  },
+  {
+    "id": "q_043",
+    "text": "Rate how important it is for you to have a financial advisor versus managing finances independently.",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Advising",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["financial advisor", "self-managed", "wealth management"]
+  },
+  {
+    "id": "q_044",
+    "text": "How much of your monthly income do you allocate to savings or investments?",
+    "category": "Financial Behavior",
+    "subcategory": "Savings & Goals",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["savings rate", "income allocation", "investing", "discipline"]
+  },
+  {
+    "id": "q_045",
+    "text": "Rank your trust level across financial institution types: traditional banks, online-only banks, credit unions, fintech apps, investment platforms.",
+    "category": "Financial Behavior",
+    "subcategory": "Banking Preferences",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["trust", "banks", "fintech", "credit union", "neobank"]
+  },
+  {
+    "id": "q_046",
+    "text": "Have you ever used a buy-now-pay-later service, and if so, how frequently?",
+    "category": "Financial Behavior",
+    "subcategory": "Credit & Lending",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["BNPL", "credit", "installment", "spending"]
+  },
+  {
+    "id": "q_047",
+    "text": "Which financial education resources have you used in the past year?",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Literacy",
+    "demographic_focus": "students",
+    "answer_type": "multiple_selection",
+    "tags": ["financial education", "courses", "books", "podcasts"]
+  },
+  {
+    "id": "q_048",
+    "text": "Rate your satisfaction with your current retirement savings progress.",
+    "category": "Financial Behavior",
+    "subcategory": "Retirement Planning",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["retirement", "401k", "pension", "long-term savings"]
+  },
+  {
+    "id": "q_049",
+    "text": "Describe how your spending habits have changed in the past two years.",
+    "category": "Financial Behavior",
+    "subcategory": "Spending Patterns",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["spending change", "habits", "post-pandemic", "inflation"]
+  },
+  {
+    "id": "q_050",
+    "text": "How comfortable are you with taking financial risk for potentially higher investment returns?",
+    "category": "Financial Behavior",
+    "subcategory": "Risk Tolerance",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["risk tolerance", "investing", "returns", "risk appetite"]
+  },
+  {
+    "id": "q_051",
+    "text": "Rank the following debt repayment priorities: student loans, credit card debt, mortgage, car loan, personal loan.",
+    "category": "Financial Behavior",
+    "subcategory": "Debt Management",
+    "demographic_focus": "millennials",
+    "answer_type": "ranking",
+    "tags": ["debt", "repayment", "student loans", "credit card"]
+  },
+  {
+    "id": "q_052",
+    "text": "Do you have a financial plan for funding your children's education?",
+    "category": "Financial Behavior",
+    "subcategory": "Family Finance",
+    "demographic_focus": "parents",
+    "answer_type": "single_selection",
+    "tags": ["education fund", "529 plan", "children", "college savings"]
+  },
+  {
+    "id": "q_053",
+    "text": "Which peer-to-peer payment platforms do you use regularly?",
+    "category": "Financial Behavior",
+    "subcategory": "Digital Payments",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["P2P", "Venmo", "Zelle", "Cash App", "payments"]
+  },
+  {
+    "id": "q_054",
+    "text": "What factors would convince you to switch to a fully digital, branchless bank?",
+    "category": "Financial Behavior",
+    "subcategory": "Digital Banking",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["neobank", "digital banking", "branchless", "switching"]
+  },
+  {
+    "id": "q_055",
+    "text": "Rate how well you understand the fees associated with your financial products.",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Literacy",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["fees", "transparency", "financial literacy", "awareness"]
+  },
+  {
+    "id": "q_056",
+    "text": "How often do you prepare meals at home using fresh ingredients?",
+    "category": "Health & Wellness",
+    "subcategory": "Nutrition",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["home cooking", "fresh food", "nutrition", "meal prep"]
+  },
+  {
+    "id": "q_057",
+    "text": "Which of the following physical activities do you engage in regularly?",
+    "category": "Health & Wellness",
+    "subcategory": "Fitness",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["exercise", "fitness", "sports", "physical activity"]
+  },
+  {
+    "id": "q_058",
+    "text": "Rate your overall satisfaction with your current physical health.",
+    "category": "Health & Wellness",
+    "subcategory": "General Health",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["health satisfaction", "well-being", "self-assessment"]
+  },
+  {
+    "id": "q_059",
+    "text": "Rank the following wellness priorities: physical fitness, mental health, sleep quality, nutrition, stress management.",
+    "category": "Health & Wellness",
+    "subcategory": "Wellness Priorities",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["wellness", "priorities", "mental health", "sleep", "fitness"]
+  },
+  {
+    "id": "q_060",
+    "text": "Describe your biggest barrier to maintaining a consistent exercise routine.",
+    "category": "Health & Wellness",
+    "subcategory": "Fitness",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["exercise barrier", "motivation", "time management", "fitness"]
+  },
+  {
+    "id": "q_061",
+    "text": "How many hours of sleep do you typically get on a weeknight?",
+    "category": "Health & Wellness",
+    "subcategory": "Sleep",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["sleep", "rest", "weeknight", "sleep duration"]
+  },
+  {
+    "id": "q_062",
+    "text": "Which mental health or wellness apps have you used in the past year?",
+    "category": "Health & Wellness",
+    "subcategory": "Mental Health",
+    "demographic_focus": "millennials",
+    "answer_type": "multiple_selection",
+    "tags": ["mental health app", "meditation", "Calm", "Headspace"]
+  },
+  {
+    "id": "q_063",
+    "text": "Rate how effectively you manage daily stress.",
+    "category": "Health & Wellness",
+    "subcategory": "Mental Health",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["stress management", "coping", "mental health", "resilience"]
+  },
+  {
+    "id": "q_064",
+    "text": "Rank the following dietary approaches by your level of interest: plant-based, Mediterranean, keto, intermittent fasting, no specific diet.",
+    "category": "Health & Wellness",
+    "subcategory": "Nutrition",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["diet", "plant-based", "keto", "fasting", "nutrition"]
+  },
+  {
+    "id": "q_065",
+    "text": "What role does technology play in helping you achieve your health goals?",
+    "category": "Health & Wellness",
+    "subcategory": "Health Tech",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["health tech", "wearables", "tracking", "goals"]
+  },
+  {
+    "id": "q_066",
+    "text": "Do you currently use a wearable fitness tracker or smartwatch for health monitoring?",
+    "category": "Health & Wellness",
+    "subcategory": "Health Tech",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["wearable", "fitness tracker", "smartwatch", "health monitoring"]
+  },
+  {
+    "id": "q_067",
+    "text": "Which preventive health services have you utilized in the past 12 months?",
+    "category": "Health & Wellness",
+    "subcategory": "Preventive Care",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["preventive care", "checkup", "screening", "vaccination"]
+  },
+  {
+    "id": "q_068",
+    "text": "Rate your satisfaction with the healthcare services available in your area.",
+    "category": "Health & Wellness",
+    "subcategory": "Healthcare Access",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["healthcare", "access", "satisfaction", "local services"]
+  },
+  {
+    "id": "q_069",
+    "text": "How often do you consume plant-based meat or dairy alternatives?",
+    "category": "Health & Wellness",
+    "subcategory": "Nutrition",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["plant-based", "meat alternative", "vegan", "dairy-free"]
+  },
+  {
+    "id": "q_070",
+    "text": "Which supplements or vitamins do you take regularly?",
+    "category": "Health & Wellness",
+    "subcategory": "Supplements",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["supplements", "vitamins", "health", "nutrition"]
+  },
+  {
+    "id": "q_071",
+    "text": "Rank the following factors affecting your mental well-being: work pressure, financial stress, relationships, health concerns, social isolation.",
+    "category": "Health & Wellness",
+    "subcategory": "Mental Health",
+    "demographic_focus": "professionals",
+    "answer_type": "ranking",
+    "tags": ["mental well-being", "stress factors", "work-life", "anxiety"]
+  },
+  {
+    "id": "q_072",
+    "text": "Rate how likely you are to seek professional help for a mental health concern.",
+    "category": "Health & Wellness",
+    "subcategory": "Mental Health",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["therapy", "counseling", "mental health", "stigma"]
+  },
+  {
+    "id": "q_073",
+    "text": "Describe your experience with telehealth or virtual doctor consultations.",
+    "category": "Health & Wellness",
+    "subcategory": "Healthcare Access",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["telehealth", "virtual care", "telemedicine", "doctor"]
+  },
+  {
+    "id": "q_074",
+    "text": "How frequently do you practice mindfulness, meditation, or yoga?",
+    "category": "Health & Wellness",
+    "subcategory": "Mindfulness",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["mindfulness", "meditation", "yoga", "relaxation"]
+  },
+  {
+    "id": "q_075",
+    "text": "Which factors most influence your choice of fitness routine or gym?",
+    "category": "Health & Wellness",
+    "subcategory": "Fitness",
+    "demographic_focus": "millennials",
+    "answer_type": "multiple_selection",
+    "tags": ["gym", "fitness routine", "cost", "location", "community"]
+  },
+  {
+    "id": "q_076",
+    "text": "Rate your interest in personalized nutrition plans based on genetic or biomarker testing.",
+    "category": "Health & Wellness",
+    "subcategory": "Personalized Health",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["personalized nutrition", "genetics", "biomarkers", "precision health"]
+  },
+  {
+    "id": "q_077",
+    "text": "How has your approach to health and wellness changed since the COVID-19 pandemic?",
+    "category": "Health & Wellness",
+    "subcategory": "General Health",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["COVID-19", "pandemic", "health changes", "wellness shift"]
+  },
+  {
+    "id": "q_078",
+    "text": "Do you follow a specific dietary restriction due to health, ethical, or religious reasons?",
+    "category": "Health & Wellness",
+    "subcategory": "Nutrition",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["dietary restriction", "allergy", "vegetarian", "halal", "kosher"]
+  },
+  {
+    "id": "q_079",
+    "text": "Rank the following in terms of how much they contribute to your daily well-being: social connection, physical exercise, quality sleep, healthy eating, time in nature.",
+    "category": "Health & Wellness",
+    "subcategory": "Wellness Priorities",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["well-being", "social", "exercise", "nature", "holistic health"]
+  },
+  {
+    "id": "q_080",
+    "text": "How concerned are you about the long-term health effects of screen time?",
+    "category": "Health & Wellness",
+    "subcategory": "Digital Wellness",
+    "demographic_focus": "parents",
+    "answer_type": "rating",
+    "tags": ["screen time", "digital wellness", "eye health", "posture"]
+  },
+  {
+    "id": "q_081",
+    "text": "Which health-related wearable metrics do you find most valuable?",
+    "category": "Health & Wellness",
+    "subcategory": "Health Tech",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["wearable metrics", "heart rate", "steps", "sleep tracking"]
+  },
+  {
+    "id": "q_082",
+    "text": "Rate your willingness to share personal health data with apps in exchange for personalized recommendations.",
+    "category": "Health & Wellness",
+    "subcategory": "Health Data Privacy",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["health data", "privacy", "personalization", "data sharing"]
+  },
+  {
+    "id": "q_083",
+    "text": "What is your primary concern about aging and long-term health?",
+    "category": "Health & Wellness",
+    "subcategory": "Aging & Longevity",
+    "demographic_focus": "seniors",
+    "answer_type": "open_ended",
+    "tags": ["aging", "longevity", "chronic disease", "mobility"]
+  },
+  {
+    "id": "q_084",
+    "text": "How often do you participate in group fitness classes or team sports?",
+    "category": "Health & Wellness",
+    "subcategory": "Fitness",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["group fitness", "team sports", "community", "social exercise"]
+  },
+  {
+    "id": "q_085",
+    "text": "Rank the following health information sources by trustworthiness: doctor or specialist, health websites, social media influencers, friends and family, academic journals.",
+    "category": "Health & Wellness",
+    "subcategory": "Health Information",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["health information", "trust", "misinformation", "sources"]
+  },
+  {
+    "id": "q_086",
+    "text": "How many hours per day do you spend on your smartphone?",
+    "category": "Technology Usage",
+    "subcategory": "Mobile",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["smartphone", "screen time", "mobile usage", "digital habits"]
+  },
+  {
+    "id": "q_087",
+    "text": "Which smart home devices do you currently use?",
+    "category": "Technology Usage",
+    "subcategory": "Smart Home",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["smart home", "IoT", "smart speaker", "automation"]
+  },
+  {
+    "id": "q_088",
+    "text": "Rate your comfort level with AI-powered virtual assistants handling personal tasks.",
+    "category": "Technology Usage",
+    "subcategory": "Artificial Intelligence",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["AI", "virtual assistant", "Siri", "Alexa", "automation"]
+  },
+  {
+    "id": "q_089",
+    "text": "Rank the following in terms of how essential they are to your daily life: smartphone, laptop, smart TV, wearable device, tablet.",
+    "category": "Technology Usage",
+    "subcategory": "Devices",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["devices", "essential tech", "smartphone", "laptop"]
+  },
+  {
+    "id": "q_090",
+    "text": "Describe how you use generative AI tools like ChatGPT in your daily work or personal life.",
+    "category": "Technology Usage",
+    "subcategory": "Artificial Intelligence",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["generative AI", "ChatGPT", "productivity", "LLM"]
+  },
+  {
+    "id": "q_091",
+    "text": "How concerned are you about the privacy of your personal data online?",
+    "category": "Technology Usage",
+    "subcategory": "Privacy & Security",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["privacy", "data protection", "online security", "tracking"]
+  },
+  {
+    "id": "q_092",
+    "text": "Which social media platforms do you use on a daily basis?",
+    "category": "Technology Usage",
+    "subcategory": "Social Media",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["social media", "TikTok", "Instagram", "daily usage"]
+  },
+  {
+    "id": "q_093",
+    "text": "How often do you update the software and apps on your devices?",
+    "category": "Technology Usage",
+    "subcategory": "Device Maintenance",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["software update", "security", "maintenance", "apps"]
+  },
+  {
+    "id": "q_094",
+    "text": "Rank the following concerns about AI: job displacement, privacy, misinformation, bias, autonomous weapons.",
+    "category": "Technology Usage",
+    "subcategory": "Artificial Intelligence",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["AI concerns", "ethics", "job displacement", "bias"]
+  },
+  {
+    "id": "q_095",
+    "text": "Rate your interest in using virtual reality for entertainment, education, or work.",
+    "category": "Technology Usage",
+    "subcategory": "Emerging Technology",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["virtual reality", "VR", "metaverse", "immersive tech"]
+  },
+  {
+    "id": "q_096",
+    "text": "Do you currently pay for any cloud storage services?",
+    "category": "Technology Usage",
+    "subcategory": "Cloud Services",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["cloud storage", "Google Drive", "iCloud", "Dropbox"]
+  },
+  {
+    "id": "q_097",
+    "text": "Which cybersecurity measures do you actively use to protect your online accounts?",
+    "category": "Technology Usage",
+    "subcategory": "Privacy & Security",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["cybersecurity", "2FA", "password manager", "VPN"]
+  },
+  {
+    "id": "q_098",
+    "text": "Rate how much you trust autonomous or self-driving vehicle technology.",
+    "category": "Technology Usage",
+    "subcategory": "Emerging Technology",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["autonomous vehicles", "self-driving", "trust", "transportation"]
+  },
+  {
+    "id": "q_099",
+    "text": "What features would make you more willing to adopt a new technology product?",
+    "category": "Technology Usage",
+    "subcategory": "Adoption",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["tech adoption", "features", "usability", "early adopter"]
+  },
+  {
+    "id": "q_100",
+    "text": "How often do you use video conferencing tools for personal communication?",
+    "category": "Technology Usage",
+    "subcategory": "Communication",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["video call", "Zoom", "communication", "remote"]
+  },
+  {
+    "id": "q_101",
+    "text": "Which programming languages or no-code tools have you experimented with?",
+    "category": "Technology Usage",
+    "subcategory": "Technical Skills",
+    "demographic_focus": "students",
+    "answer_type": "multiple_selection",
+    "tags": ["programming", "no-code", "coding", "technical literacy"]
+  },
+  {
+    "id": "q_102",
+    "text": "Rank the following smart home features by desirability: voice control, automated lighting, security cameras, smart thermostat, robot vacuum.",
+    "category": "Technology Usage",
+    "subcategory": "Smart Home",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["smart home", "automation", "voice control", "IoT"]
+  },
+  {
+    "id": "q_103",
+    "text": "Rate how dependent you feel on technology in your everyday life.",
+    "category": "Technology Usage",
+    "subcategory": "Digital Habits",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["tech dependency", "digital life", "screen time", "habits"]
+  },
+  {
+    "id": "q_104",
+    "text": "How do you feel about companies using your data to personalize advertisements?",
+    "category": "Technology Usage",
+    "subcategory": "Privacy & Security",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["ad personalization", "data usage", "privacy", "targeting"]
+  },
+  {
+    "id": "q_105",
+    "text": "Do you use ad-blocking software or privacy-focused browsers?",
+    "category": "Technology Usage",
+    "subcategory": "Privacy & Security",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["ad blocker", "privacy browser", "tracking prevention"]
+  },
+  {
+    "id": "q_106",
+    "text": "Which wearable technology devices do you own or plan to purchase?",
+    "category": "Technology Usage",
+    "subcategory": "Wearables",
+    "demographic_focus": "millennials",
+    "answer_type": "multiple_selection",
+    "tags": ["wearable", "smartwatch", "fitness tracker", "AR glasses"]
+  },
+  {
+    "id": "q_107",
+    "text": "Rate your confidence in distinguishing AI-generated content from human-created content.",
+    "category": "Technology Usage",
+    "subcategory": "Artificial Intelligence",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["AI content", "deepfake", "misinformation", "detection"]
+  },
+  {
+    "id": "q_108",
+    "text": "Rank the following reasons you might resist adopting new technology: cost, complexity, privacy concerns, lack of perceived benefit, satisfaction with current tools.",
+    "category": "Technology Usage",
+    "subcategory": "Adoption",
+    "demographic_focus": "seniors",
+    "answer_type": "ranking",
+    "tags": ["tech resistance", "adoption barriers", "complexity", "cost"]
+  },
+  {
+    "id": "q_109",
+    "text": "How quickly do you typically adopt new technology products after they are released?",
+    "category": "Technology Usage",
+    "subcategory": "Adoption",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["early adopter", "tech adoption", "innovation", "laggard"]
+  },
+  {
+    "id": "q_110",
+    "text": "Describe a technology product or feature you wish existed but currently does not.",
+    "category": "Technology Usage",
+    "subcategory": "Innovation",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["innovation", "wishlist", "unmet need", "future tech"]
+  },
+  {
+    "id": "q_111",
+    "text": "Which of the following emerging technologies are you most excited about?",
+    "category": "Technology Usage",
+    "subcategory": "Emerging Technology",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["emerging tech", "AI", "quantum computing", "biotech", "space tech"]
+  },
+  {
+    "id": "q_112",
+    "text": "Rate your willingness to pay a premium for technology products that guarantee data privacy.",
+    "category": "Technology Usage",
+    "subcategory": "Privacy & Security",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["privacy premium", "data protection", "willingness to pay"]
+  },
+  {
+    "id": "q_113",
+    "text": "How often do you use voice commands to interact with your devices?",
+    "category": "Technology Usage",
+    "subcategory": "Voice Technology",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["voice commands", "voice assistant", "hands-free", "UX"]
+  },
+  {
+    "id": "q_114",
+    "text": "Rank the following factors when purchasing a new smartphone: camera quality, battery life, price, brand, processing speed.",
+    "category": "Technology Usage",
+    "subcategory": "Mobile",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["smartphone", "purchase factors", "camera", "battery"]
+  },
+  {
+    "id": "q_115",
+    "text": "What is your primary concern when it comes to children's use of technology?",
+    "category": "Technology Usage",
+    "subcategory": "Digital Wellness",
+    "demographic_focus": "parents",
+    "answer_type": "open_ended",
+    "tags": ["children", "screen time", "digital safety", "parenting"]
+  },
+  {
+    "id": "q_116",
+    "text": "How many streaming services are you currently subscribed to?",
+    "category": "Media & Entertainment",
+    "subcategory": "Streaming",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["streaming", "Netflix", "subscription", "OTT"]
+  },
+  {
+    "id": "q_117",
+    "text": "Which types of content do you consume most frequently on streaming platforms?",
+    "category": "Media & Entertainment",
+    "subcategory": "Content Preferences",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["content type", "movies", "series", "documentaries", "anime"]
+  },
+  {
+    "id": "q_118",
+    "text": "Rate your satisfaction with the content recommendation algorithms on your most-used streaming platform.",
+    "category": "Media & Entertainment",
+    "subcategory": "Streaming",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["recommendation", "algorithm", "personalization", "streaming"]
+  },
+  {
+    "id": "q_119",
+    "text": "Rank the following media formats by how much time you spend on them weekly: video streaming, music streaming, podcasts, social media video, live TV.",
+    "category": "Media & Entertainment",
+    "subcategory": "Media Consumption",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["media formats", "video", "podcasts", "music", "TV"]
+  },
+  {
+    "id": "q_120",
+    "text": "Describe what makes you decide to cancel a streaming subscription.",
+    "category": "Media & Entertainment",
+    "subcategory": "Streaming",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["churn", "subscription cancellation", "value", "content"]
+  },
+  {
+    "id": "q_121",
+    "text": "How often do you listen to podcasts?",
+    "category": "Media & Entertainment",
+    "subcategory": "Podcasts",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["podcasts", "audio", "listening habits", "commute"]
+  },
+  {
+    "id": "q_122",
+    "text": "Which music streaming services do you use?",
+    "category": "Media & Entertainment",
+    "subcategory": "Music",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["music streaming", "Spotify", "Apple Music", "YouTube Music"]
+  },
+  {
+    "id": "q_123",
+    "text": "Rate your interest in attending live events such as concerts, theater, or sports.",
+    "category": "Media & Entertainment",
+    "subcategory": "Live Events",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["live events", "concerts", "sports", "theater"]
+  },
+  {
+    "id": "q_124",
+    "text": "Rank the following podcast genres by preference: true crime, business, comedy, technology, health & wellness.",
+    "category": "Media & Entertainment",
+    "subcategory": "Podcasts",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["podcast genres", "true crime", "business", "comedy"]
+  },
+  {
+    "id": "q_125",
+    "text": "What type of content do you wish streaming platforms offered more of?",
+    "category": "Media & Entertainment",
+    "subcategory": "Content Preferences",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["content gap", "streaming", "wishlist", "programming"]
+  },
+  {
+    "id": "q_126",
+    "text": "How often do you play video games?",
+    "category": "Media & Entertainment",
+    "subcategory": "Gaming",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["gaming", "video games", "console", "PC gaming"]
+  },
+  {
+    "id": "q_127",
+    "text": "Which gaming platforms do you use?",
+    "category": "Media & Entertainment",
+    "subcategory": "Gaming",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["gaming platform", "PlayStation", "Xbox", "PC", "mobile"]
+  },
+  {
+    "id": "q_128",
+    "text": "Rate how important ad-free experiences are to you when consuming media.",
+    "category": "Media & Entertainment",
+    "subcategory": "Advertising",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["ad-free", "premium", "advertising", "user experience"]
+  },
+  {
+    "id": "q_129",
+    "text": "How many hours per week do you spend consuming news content?",
+    "category": "Media & Entertainment",
+    "subcategory": "News",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["news", "media consumption", "current events", "information"]
+  },
+  {
+    "id": "q_130",
+    "text": "Which sources do you rely on for news and current events?",
+    "category": "Media & Entertainment",
+    "subcategory": "News",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["news sources", "social media", "TV news", "newspapers"]
+  },
+  {
+    "id": "q_131",
+    "text": "Rank the following factors when choosing what to watch: personal recommendations, platform suggestions, critic reviews, trailers, social media buzz.",
+    "category": "Media & Entertainment",
+    "subcategory": "Content Discovery",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["content discovery", "recommendations", "reviews", "trailers"]
+  },
+  {
+    "id": "q_132",
+    "text": "Rate your willingness to pay for a premium, ad-free news subscription.",
+    "category": "Media & Entertainment",
+    "subcategory": "News",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["news subscription", "paywall", "premium content", "journalism"]
+  },
+  {
+    "id": "q_133",
+    "text": "Describe how your media consumption habits have changed over the past three years.",
+    "category": "Media & Entertainment",
+    "subcategory": "Media Consumption",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["media shift", "habits", "cord-cutting", "digital"]
+  },
+  {
+    "id": "q_134",
+    "text": "How often do you watch short-form video content on platforms like TikTok, YouTube Shorts, or Instagram Reels?",
+    "category": "Media & Entertainment",
+    "subcategory": "Short-Form Video",
+    "demographic_focus": "gen_z",
+    "answer_type": "single_selection",
+    "tags": ["short-form video", "TikTok", "Reels", "Shorts"]
+  },
+  {
+    "id": "q_135",
+    "text": "Which genres of books or audiobooks do you prefer?",
+    "category": "Media & Entertainment",
+    "subcategory": "Reading",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["books", "audiobooks", "reading", "genres", "fiction"]
+  },
+  {
+    "id": "q_136",
+    "text": "Rate your interest in interactive or choose-your-own-adventure style media content.",
+    "category": "Media & Entertainment",
+    "subcategory": "Interactive Media",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["interactive content", "choose your adventure", "engagement"]
+  },
+  {
+    "id": "q_137",
+    "text": "How much do you spend monthly on all entertainment subscriptions combined?",
+    "category": "Media & Entertainment",
+    "subcategory": "Spending",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["entertainment spending", "subscriptions", "monthly cost"]
+  },
+  {
+    "id": "q_138",
+    "text": "Rank the following social media platforms by how much entertainment value they provide: YouTube, TikTok, Instagram, Twitter/X, Reddit.",
+    "category": "Media & Entertainment",
+    "subcategory": "Social Media",
+    "demographic_focus": "gen_z",
+    "answer_type": "ranking",
+    "tags": ["social media", "entertainment", "YouTube", "TikTok"]
+  },
+  {
+    "id": "q_139",
+    "text": "Do you prefer binge-watching entire seasons at once or watching episodes weekly?",
+    "category": "Media & Entertainment",
+    "subcategory": "Viewing Habits",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["binge-watching", "weekly release", "viewing habits"]
+  },
+  {
+    "id": "q_140",
+    "text": "What role does nostalgia play in your entertainment choices?",
+    "category": "Media & Entertainment",
+    "subcategory": "Content Preferences",
+    "demographic_focus": "millennials",
+    "answer_type": "open_ended",
+    "tags": ["nostalgia", "reboots", "retro", "comfort watching"]
+  },
+  {
+    "id": "q_141",
+    "text": "Rate how likely you are to share or recommend content you enjoy to friends and family.",
+    "category": "Media & Entertainment",
+    "subcategory": "Social Sharing",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["word of mouth", "sharing", "recommendation", "social"]
+  },
+  {
+    "id": "q_142",
+    "text": "Which live-streaming platforms do you watch content on?",
+    "category": "Media & Entertainment",
+    "subcategory": "Live Streaming",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["live streaming", "Twitch", "YouTube Live", "creators"]
+  },
+  {
+    "id": "q_143",
+    "text": "Rate your interest in attending virtual or hybrid events such as online concerts or metaverse gatherings.",
+    "category": "Media & Entertainment",
+    "subcategory": "Virtual Events",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["virtual events", "online concerts", "metaverse", "hybrid"]
+  },
+  {
+    "id": "q_144",
+    "text": "How do you typically discover new music artists?",
+    "category": "Media & Entertainment",
+    "subcategory": "Music",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["music discovery", "algorithm", "playlist", "social"]
+  },
+  {
+    "id": "q_145",
+    "text": "Rank the following when deciding on a new streaming subscription: content library size, original content quality, price, user interface, offline download availability.",
+    "category": "Media & Entertainment",
+    "subcategory": "Streaming",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["streaming choice", "content library", "price", "originals"]
+  },
+  {
+    "id": "q_146",
+    "text": "How many leisure trips do you take per year?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Frequency",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["travel frequency", "vacation", "leisure", "trips"]
+  },
+  {
+    "id": "q_147",
+    "text": "Which types of travel experiences do you prefer?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Preferences",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["travel type", "adventure", "cultural", "relaxation", "ecotourism"]
+  },
+  {
+    "id": "q_148",
+    "text": "Rate your preference for independent travel versus organized group tours.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Style",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["independent travel", "group tour", "solo travel", "style"]
+  },
+  {
+    "id": "q_149",
+    "text": "Rank the following factors when choosing a travel destination: cost, safety, culture, climate, food scene.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Destination Choice",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["destination", "cost", "safety", "culture", "food"]
+  },
+  {
+    "id": "q_150",
+    "text": "Describe your ideal vacation in terms of activities, location, and duration.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Preferences",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["ideal vacation", "activities", "destination", "duration"]
+  },
+  {
+    "id": "q_151",
+    "text": "How often do you dine out or order takeout per week?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Dining",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["dining out", "takeout", "restaurants", "food delivery"]
+  },
+  {
+    "id": "q_152",
+    "text": "Which travel booking platforms do you use most frequently?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Booking",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["booking platform", "Airbnb", "Booking.com", "Expedia"]
+  },
+  {
+    "id": "q_153",
+    "text": "Rate how important sustainable or eco-friendly practices are when choosing accommodation.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Sustainable Travel",
+    "demographic_focus": "millennials",
+    "answer_type": "rating",
+    "tags": ["sustainable travel", "eco-friendly", "accommodation", "green"]
+  },
+  {
+    "id": "q_154",
+    "text": "Rank the following accommodation types by preference: luxury hotel, boutique hotel, vacation rental, hostel, camping or glamping.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Accommodation",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["accommodation", "hotel", "Airbnb", "hostel", "camping"]
+  },
+  {
+    "id": "q_155",
+    "text": "What is the most memorable travel experience you have had and why?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Experiences",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["memorable trip", "experience", "travel story"]
+  },
+  {
+    "id": "q_156",
+    "text": "How often do you participate in outdoor recreational activities such as hiking, cycling, or kayaking?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Outdoor Activities",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["outdoor", "hiking", "cycling", "recreation", "nature"]
+  },
+  {
+    "id": "q_157",
+    "text": "Which hobbies or leisure activities do you regularly engage in?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Hobbies",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["hobbies", "leisure", "crafts", "sports", "reading"]
+  },
+  {
+    "id": "q_158",
+    "text": "Rate your satisfaction with your current work-life balance.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Work-Life Balance",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["work-life balance", "satisfaction", "lifestyle", "well-being"]
+  },
+  {
+    "id": "q_159",
+    "text": "How much do you typically budget for a one-week vacation?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Budget",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["travel budget", "vacation cost", "spending", "planning"]
+  },
+  {
+    "id": "q_160",
+    "text": "Rank the following travel motivations: relaxation, cultural immersion, adventure and thrills, social media content, visiting friends and family.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Travel Motivation",
+    "demographic_focus": "gen_z",
+    "answer_type": "ranking",
+    "tags": ["travel motivation", "relaxation", "adventure", "culture"]
+  },
+  {
+    "id": "q_161",
+    "text": "Which cuisines do you enjoy trying when traveling?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Food & Dining",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["cuisine", "food travel", "culinary", "gastronomy"]
+  },
+  {
+    "id": "q_162",
+    "text": "Rate your interest in digital nomad or remote work travel lifestyles.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Remote Work",
+    "demographic_focus": "millennials",
+    "answer_type": "rating",
+    "tags": ["digital nomad", "remote work", "travel lifestyle", "flexibility"]
+  },
+  {
+    "id": "q_163",
+    "text": "How has remote work changed your approach to where you choose to live?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Remote Work",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["remote work", "relocation", "living preferences", "flexibility"]
+  },
+  {
+    "id": "q_164",
+    "text": "How often do you visit coffee shops, co-working spaces, or similar third places for leisure or work?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Third Places",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["coffee shop", "co-working", "third place", "social space"]
+  },
+  {
+    "id": "q_165",
+    "text": "Which transportation modes do you use most for daily commuting?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Commuting",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["commuting", "public transit", "car", "cycling", "walking"]
+  },
+  {
+    "id": "q_166",
+    "text": "Rate your interest in experiential travel such as cooking classes, artisan workshops, or farm stays.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Experiential Travel",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["experiential travel", "cooking class", "workshop", "immersive"]
+  },
+  {
+    "id": "q_167",
+    "text": "Rank the following urban lifestyle amenities by importance: proximity to restaurants, public parks, nightlife, cultural venues, fitness facilities.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Urban Living",
+    "demographic_focus": "millennials",
+    "answer_type": "ranking",
+    "tags": ["urban amenities", "restaurants", "parks", "nightlife"]
+  },
+  {
+    "id": "q_168",
+    "text": "How often do you attend local community events, markets, or festivals?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Community",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["community events", "farmers market", "festivals", "local"]
+  },
+  {
+    "id": "q_169",
+    "text": "Do you prefer urban, suburban, or rural living environments?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Living Preferences",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["urban", "suburban", "rural", "living environment"]
+  },
+  {
+    "id": "q_170",
+    "text": "Describe what a perfect weekend looks like for you.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Leisure",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["weekend", "leisure", "relaxation", "activities"]
+  },
+  {
+    "id": "q_171",
+    "text": "Rate your interest in pet ownership or pet-related services and products.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Pets",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["pets", "pet ownership", "pet products", "animals"]
+  },
+  {
+    "id": "q_172",
+    "text": "Which factors influenced your choice of your current home or apartment?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Housing",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["housing", "rent", "location", "affordability", "space"]
+  },
+  {
+    "id": "q_173",
+    "text": "Rank the following when choosing a restaurant: food quality, price, ambiance, location, online reviews.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Dining",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["restaurant choice", "dining", "food quality", "reviews"]
+  },
+  {
+    "id": "q_174",
+    "text": "How often do you use ride-sharing services like Uber or Lyft?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Transportation",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["ride-sharing", "Uber", "Lyft", "transportation"]
+  },
+  {
+    "id": "q_175",
+    "text": "Rate how much the cost of living in your area affects your lifestyle satisfaction.",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Cost of Living",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["cost of living", "affordability", "lifestyle", "satisfaction"]
+  },
+  {
+    "id": "q_176",
+    "text": "How satisfied are you with your current job overall?",
+    "category": "Employment & Career",
+    "subcategory": "Job Satisfaction",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["job satisfaction", "career", "workplace", "happiness"]
+  },
+  {
+    "id": "q_177",
+    "text": "Which of the following workplace benefits matter most to you?",
+    "category": "Employment & Career",
+    "subcategory": "Benefits & Compensation",
+    "demographic_focus": "professionals",
+    "answer_type": "multiple_selection",
+    "tags": ["benefits", "health insurance", "PTO", "401k", "remote work"]
+  },
+  {
+    "id": "q_178",
+    "text": "Rank the following career priorities: salary, work-life balance, career growth, company mission, team culture.",
+    "category": "Employment & Career",
+    "subcategory": "Career Priorities",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["career priorities", "salary", "growth", "culture"]
+  },
+  {
+    "id": "q_179",
+    "text": "How often do you work remotely versus in an office setting?",
+    "category": "Employment & Career",
+    "subcategory": "Work Arrangement",
+    "demographic_focus": "professionals",
+    "answer_type": "single_selection",
+    "tags": ["remote work", "office", "hybrid", "work arrangement"]
+  },
+  {
+    "id": "q_180",
+    "text": "Describe what your ideal employer looks like in terms of values, size, and culture.",
+    "category": "Employment & Career",
+    "subcategory": "Employer Preferences",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["ideal employer", "company culture", "values", "startup vs corporate"]
+  },
+  {
+    "id": "q_181",
+    "text": "How many years of experience do you have in your current field?",
+    "category": "Employment & Career",
+    "subcategory": "Experience Level",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["experience", "tenure", "career stage", "seniority"]
+  },
+  {
+    "id": "q_182",
+    "text": "Which professional development activities have you participated in during the past year?",
+    "category": "Employment & Career",
+    "subcategory": "Professional Development",
+    "demographic_focus": "professionals",
+    "answer_type": "multiple_selection",
+    "tags": ["training", "certification", "conference", "upskilling"]
+  },
+  {
+    "id": "q_183",
+    "text": "Rate how optimistic you are about career advancement opportunities in your current organization.",
+    "category": "Employment & Career",
+    "subcategory": "Career Growth",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["career advancement", "promotion", "growth", "optimism"]
+  },
+  {
+    "id": "q_184",
+    "text": "Rank the following work arrangement preferences: fully remote, hybrid with 2 days in office, hybrid with 3 days in office, fully in-office, flexible with no set schedule.",
+    "category": "Employment & Career",
+    "subcategory": "Work Arrangement",
+    "demographic_focus": "professionals",
+    "answer_type": "ranking",
+    "tags": ["work arrangement", "remote", "hybrid", "in-office"]
+  },
+  {
+    "id": "q_185",
+    "text": "What is the primary reason you would consider leaving your current job?",
+    "category": "Employment & Career",
+    "subcategory": "Retention",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["turnover", "resignation", "job change", "motivation"]
+  },
+  {
+    "id": "q_186",
+    "text": "How important is it for your employer to have strong diversity, equity, and inclusion initiatives?",
+    "category": "Employment & Career",
+    "subcategory": "DEI",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["DEI", "diversity", "inclusion", "equity", "workplace"]
+  },
+  {
+    "id": "q_187",
+    "text": "Which industries are you most interested in working in?",
+    "category": "Employment & Career",
+    "subcategory": "Industry Preferences",
+    "demographic_focus": "students",
+    "answer_type": "multiple_selection",
+    "tags": ["industry", "tech", "healthcare", "finance", "career interest"]
+  },
+  {
+    "id": "q_188",
+    "text": "How often do you experience burnout or work-related exhaustion?",
+    "category": "Employment & Career",
+    "subcategory": "Well-being",
+    "demographic_focus": "professionals",
+    "answer_type": "single_selection",
+    "tags": ["burnout", "exhaustion", "work stress", "mental health"]
+  },
+  {
+    "id": "q_189",
+    "text": "Rate how well your current job utilizes your skills and strengths.",
+    "category": "Employment & Career",
+    "subcategory": "Job Fit",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["skills utilization", "job fit", "strengths", "fulfillment"]
+  },
+  {
+    "id": "q_190",
+    "text": "Rank the following by how much they contribute to job satisfaction: meaningful work, supportive manager, collaborative team, competitive pay, learning opportunities.",
+    "category": "Employment & Career",
+    "subcategory": "Job Satisfaction",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["job satisfaction", "manager", "team", "pay", "meaning"]
+  },
+  {
+    "id": "q_191",
+    "text": "Have you pursued a career change or considered one in the past two years?",
+    "category": "Employment & Career",
+    "subcategory": "Career Change",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["career change", "pivot", "new field", "transition"]
+  },
+  {
+    "id": "q_192",
+    "text": "Which skills do you most want to develop in the next 12 months?",
+    "category": "Employment & Career",
+    "subcategory": "Skill Development",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["skills", "learning", "upskilling", "development"]
+  },
+  {
+    "id": "q_193",
+    "text": "Rate how comfortable you are with using AI tools to augment your professional work.",
+    "category": "Employment & Career",
+    "subcategory": "AI in the Workplace",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["AI tools", "automation", "workplace AI", "productivity"]
+  },
+  {
+    "id": "q_194",
+    "text": "Describe the management style that brings out your best work.",
+    "category": "Employment & Career",
+    "subcategory": "Management",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["management style", "leadership", "micromanagement", "autonomy"]
+  },
+  {
+    "id": "q_195",
+    "text": "How often do you engage in networking activities, either online or in person?",
+    "category": "Employment & Career",
+    "subcategory": "Networking",
+    "demographic_focus": "professionals",
+    "answer_type": "single_selection",
+    "tags": ["networking", "LinkedIn", "professional connections", "events"]
+  },
+  {
+    "id": "q_196",
+    "text": "Rank the following entrepreneurial motivations: financial independence, passion project, flexibility, solving a problem, leaving traditional employment.",
+    "category": "Employment & Career",
+    "subcategory": "Entrepreneurship",
+    "demographic_focus": "millennials",
+    "answer_type": "ranking",
+    "tags": ["entrepreneurship", "startup", "independence", "motivation"]
+  },
+  {
+    "id": "q_197",
+    "text": "Which freelancing or gig economy platforms have you used for supplemental income?",
+    "category": "Employment & Career",
+    "subcategory": "Gig Economy",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["gig economy", "freelance", "Fiverr", "Upwork", "side hustle"]
+  },
+  {
+    "id": "q_198",
+    "text": "Rate how secure you feel in your current employment.",
+    "category": "Employment & Career",
+    "subcategory": "Job Security",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["job security", "layoffs", "stability", "confidence"]
+  },
+  {
+    "id": "q_199",
+    "text": "What role does company social responsibility play in your decision to accept a job offer?",
+    "category": "Employment & Career",
+    "subcategory": "Employer Values",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["CSR", "social responsibility", "values", "employer brand"]
+  },
+  {
+    "id": "q_200",
+    "text": "How satisfied are you with the mentorship and guidance available to you at work?",
+    "category": "Employment & Career",
+    "subcategory": "Mentorship",
+    "demographic_focus": "students",
+    "answer_type": "rating",
+    "tags": ["mentorship", "guidance", "career development", "support"]
+  },
+  {
+    "id": "q_201",
+    "text": "Do you consider salary transparency important when evaluating a new role?",
+    "category": "Employment & Career",
+    "subcategory": "Compensation",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["salary transparency", "compensation", "pay equity", "hiring"]
+  },
+  {
+    "id": "q_202",
+    "text": "Rank the following by impact on your productivity: quiet workspace, flexible hours, clear goals, good tools, minimal meetings.",
+    "category": "Employment & Career",
+    "subcategory": "Productivity",
+    "demographic_focus": "professionals",
+    "answer_type": "ranking",
+    "tags": ["productivity", "workspace", "meetings", "flexibility"]
+  },
+  {
+    "id": "q_203",
+    "text": "Which side projects or freelance work do you pursue outside of your primary job?",
+    "category": "Employment & Career",
+    "subcategory": "Side Projects",
+    "demographic_focus": "millennials",
+    "answer_type": "open_ended",
+    "tags": ["side project", "freelance", "passion", "supplemental income"]
+  },
+  {
+    "id": "q_204",
+    "text": "Rate how well your employer supports continued education and professional certifications.",
+    "category": "Employment & Career",
+    "subcategory": "Professional Development",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["education support", "tuition reimbursement", "certification"]
+  },
+  {
+    "id": "q_205",
+    "text": "How do you prefer to receive feedback on your work performance?",
+    "category": "Employment & Career",
+    "subcategory": "Feedback",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["feedback", "performance review", "1-on-1", "communication"]
+  },
+  {
+    "id": "q_206",
+    "text": "What is the highest level of education you have completed?",
+    "category": "Education",
+    "subcategory": "Education Level",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["education level", "degree", "diploma", "academic"]
+  },
+  {
+    "id": "q_207",
+    "text": "Which online learning platforms have you used for courses or certifications?",
+    "category": "Education",
+    "subcategory": "Online Learning",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["online learning", "Coursera", "Udemy", "edX", "MOOCs"]
+  },
+  {
+    "id": "q_208",
+    "text": "Rate your satisfaction with the quality of education you received at your most recent institution.",
+    "category": "Education",
+    "subcategory": "Education Quality",
+    "demographic_focus": "students",
+    "answer_type": "rating",
+    "tags": ["education quality", "university", "satisfaction", "curriculum"]
+  },
+  {
+    "id": "q_209",
+    "text": "Rank the following factors by how much they influenced your choice of educational institution: reputation, cost, location, program offerings, campus culture.",
+    "category": "Education",
+    "subcategory": "Institution Choice",
+    "demographic_focus": "students",
+    "answer_type": "ranking",
+    "tags": ["institution choice", "university", "cost", "reputation"]
+  },
+  {
+    "id": "q_210",
+    "text": "Describe the most valuable skill or lesson you gained from your formal education.",
+    "category": "Education",
+    "subcategory": "Education Value",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["education value", "skills", "learning", "applied knowledge"]
+  },
+  {
+    "id": "q_211",
+    "text": "How much student loan debt do you currently carry?",
+    "category": "Education",
+    "subcategory": "Student Debt",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["student debt", "loans", "tuition", "financial burden"]
+  },
+  {
+    "id": "q_212",
+    "text": "Which subjects or skill areas are you currently learning or interested in learning?",
+    "category": "Education",
+    "subcategory": "Lifelong Learning",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["lifelong learning", "self-improvement", "skills", "curiosity"]
+  },
+  {
+    "id": "q_213",
+    "text": "Rate how well your formal education prepared you for your current career.",
+    "category": "Education",
+    "subcategory": "Career Preparation",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["career readiness", "education gap", "preparation", "relevance"]
+  },
+  {
+    "id": "q_214",
+    "text": "Rank the following learning formats by preference: in-person classes, live online classes, self-paced video courses, books and reading, hands-on workshops.",
+    "category": "Education",
+    "subcategory": "Learning Preferences",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["learning format", "in-person", "online", "self-paced", "workshop"]
+  },
+  {
+    "id": "q_215",
+    "text": "What barriers have you faced in accessing education or training opportunities?",
+    "category": "Education",
+    "subcategory": "Access & Equity",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["education access", "barriers", "equity", "affordability"]
+  },
+  {
+    "id": "q_216",
+    "text": "Do you believe a traditional four-year degree is necessary for career success in your field?",
+    "category": "Education",
+    "subcategory": "Degree Value",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["degree value", "traditional education", "alternative paths"]
+  },
+  {
+    "id": "q_217",
+    "text": "Which alternative credentials or micro-certifications have you earned or considered pursuing?",
+    "category": "Education",
+    "subcategory": "Alternative Credentials",
+    "demographic_focus": "professionals",
+    "answer_type": "multiple_selection",
+    "tags": ["micro-credentials", "bootcamp", "certification", "badge"]
+  },
+  {
+    "id": "q_218",
+    "text": "Rate your interest in pursuing further formal education such as a graduate degree.",
+    "category": "Education",
+    "subcategory": "Graduate Education",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["graduate school", "masters", "PhD", "further education"]
+  },
+  {
+    "id": "q_219",
+    "text": "How many hours per week do you spend on self-directed learning outside of formal education?",
+    "category": "Education",
+    "subcategory": "Self-Directed Learning",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["self-learning", "autodidact", "continuous learning", "hours"]
+  },
+  {
+    "id": "q_220",
+    "text": "Rank the following motivations for pursuing education: career advancement, personal interest, higher income, social connection, credential requirement.",
+    "category": "Education",
+    "subcategory": "Education Motivation",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["education motivation", "career", "income", "personal growth"]
+  },
+  {
+    "id": "q_221",
+    "text": "Which digital literacy skills do you feel most confident in?",
+    "category": "Education",
+    "subcategory": "Digital Literacy",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["digital literacy", "data analysis", "coding", "media literacy"]
+  },
+  {
+    "id": "q_222",
+    "text": "Rate how effective you find AI-powered tutoring or learning assistant tools.",
+    "category": "Education",
+    "subcategory": "EdTech",
+    "demographic_focus": "students",
+    "answer_type": "rating",
+    "tags": ["AI tutoring", "edtech", "learning assistant", "personalized"]
+  },
+  {
+    "id": "q_223",
+    "text": "Describe how you approach learning a completely new subject or skill from scratch.",
+    "category": "Education",
+    "subcategory": "Learning Strategies",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["learning strategy", "new skill", "approach", "methodology"]
+  },
+  {
+    "id": "q_224",
+    "text": "How important is it for educational content to include real-world projects or case studies?",
+    "category": "Education",
+    "subcategory": "Curriculum Design",
+    "demographic_focus": "students",
+    "answer_type": "rating",
+    "tags": ["project-based", "case study", "practical", "applied learning"]
+  },
+  {
+    "id": "q_225",
+    "text": "Do you invest in your children's extracurricular education such as tutoring, music lessons, or coding classes?",
+    "category": "Education",
+    "subcategory": "Children's Education",
+    "demographic_focus": "parents",
+    "answer_type": "single_selection",
+    "tags": ["extracurricular", "tutoring", "children", "enrichment"]
+  },
+  {
+    "id": "q_226",
+    "text": "Which factors would make you more likely to complete an online course you started?",
+    "category": "Education",
+    "subcategory": "Online Learning",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["course completion", "motivation", "engagement", "online"]
+  },
+  {
+    "id": "q_227",
+    "text": "Rank the following educational technology features by usefulness: interactive quizzes, video lectures, peer discussion forums, AI feedback, downloadable resources.",
+    "category": "Education",
+    "subcategory": "EdTech",
+    "demographic_focus": "students",
+    "answer_type": "ranking",
+    "tags": ["edtech features", "quizzes", "video", "forums", "AI"]
+  },
+  {
+    "id": "q_228",
+    "text": "How has the availability of free online educational content affected your learning habits?",
+    "category": "Education",
+    "subcategory": "Open Education",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["free content", "YouTube", "open education", "accessibility"]
+  },
+  {
+    "id": "q_229",
+    "text": "Rate how important language learning is to your personal or professional goals.",
+    "category": "Education",
+    "subcategory": "Language Learning",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["language learning", "bilingual", "Duolingo", "communication"]
+  },
+  {
+    "id": "q_230",
+    "text": "How many languages do you speak conversationally?",
+    "category": "Education",
+    "subcategory": "Language Learning",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["languages", "multilingual", "fluency", "conversational"]
+  },
+  {
+    "id": "q_231",
+    "text": "Which social issues are you most passionate about?",
+    "category": "Social & Political Views",
+    "subcategory": "Social Issues",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["social issues", "equality", "justice", "activism"]
+  },
+  {
+    "id": "q_232",
+    "text": "Rate how important it is for the brands you buy from to take public stances on social issues.",
+    "category": "Social & Political Views",
+    "subcategory": "Brand Activism",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["brand activism", "social stance", "corporate values", "purpose"]
+  },
+  {
+    "id": "q_233",
+    "text": "How often do you volunteer or donate to charitable causes?",
+    "category": "Social & Political Views",
+    "subcategory": "Civic Engagement",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["volunteering", "charity", "donation", "giving back"]
+  },
+  {
+    "id": "q_234",
+    "text": "Rank the following social causes by how much they influence your consumer behavior: environmental protection, racial equity, LGBTQ+ rights, income inequality, animal welfare.",
+    "category": "Social & Political Views",
+    "subcategory": "Cause-Driven Behavior",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["cause-driven", "social causes", "consumer behavior", "values"]
+  },
+  {
+    "id": "q_235",
+    "text": "Describe your perspective on the role of technology companies in moderating online speech.",
+    "category": "Social & Political Views",
+    "subcategory": "Tech & Society",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["content moderation", "free speech", "tech companies", "censorship"]
+  },
+  {
+    "id": "q_236",
+    "text": "How closely do you follow local politics and community governance?",
+    "category": "Social & Political Views",
+    "subcategory": "Political Engagement",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["local politics", "governance", "community", "engagement"]
+  },
+  {
+    "id": "q_237",
+    "text": "Which news or information topics do you actively seek out beyond headlines?",
+    "category": "Social & Political Views",
+    "subcategory": "Information Consumption",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["news topics", "deep dive", "informed", "current events"]
+  },
+  {
+    "id": "q_238",
+    "text": "Rate how confident you are in the accuracy and fairness of mainstream news media.",
+    "category": "Social & Political Views",
+    "subcategory": "Media Trust",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["media trust", "bias", "journalism", "misinformation"]
+  },
+  {
+    "id": "q_239",
+    "text": "Rank the following governance priorities: healthcare access, economic growth, education funding, climate action, national security.",
+    "category": "Social & Political Views",
+    "subcategory": "Policy Priorities",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["policy priorities", "healthcare", "economy", "climate"]
+  },
+  {
+    "id": "q_240",
+    "text": "What does community mean to you, and how do you engage with yours?",
+    "category": "Social & Political Views",
+    "subcategory": "Community",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["community", "belonging", "engagement", "neighborhood"]
+  },
+  {
+    "id": "q_241",
+    "text": "Do you believe corporations have a responsibility to address social inequality?",
+    "category": "Social & Political Views",
+    "subcategory": "Corporate Responsibility",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["corporate responsibility", "inequality", "CSR", "ethics"]
+  },
+  {
+    "id": "q_242",
+    "text": "Which charitable causes or organizations do you support financially or through volunteering?",
+    "category": "Social & Political Views",
+    "subcategory": "Philanthropy",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["charity", "nonprofit", "philanthropy", "causes"]
+  },
+  {
+    "id": "q_243",
+    "text": "Rate how important diversity and representation in media and advertising are to you.",
+    "category": "Social & Political Views",
+    "subcategory": "Representation",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["diversity", "representation", "media", "advertising"]
+  },
+  {
+    "id": "q_244",
+    "text": "How comfortable are you discussing political or social issues with people who hold different views?",
+    "category": "Social & Political Views",
+    "subcategory": "Civil Discourse",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["civil discourse", "debate", "different views", "tolerance"]
+  },
+  {
+    "id": "q_245",
+    "text": "Rank the following in terms of how much they shape your worldview: personal experience, education, family upbringing, media, travel.",
+    "category": "Social & Political Views",
+    "subcategory": "Worldview",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["worldview", "influence", "upbringing", "experience"]
+  },
+  {
+    "id": "q_246",
+    "text": "Do you actively participate in online communities or forums centered around social or political topics?",
+    "category": "Social & Political Views",
+    "subcategory": "Online Engagement",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["online community", "forums", "Reddit", "political discussion"]
+  },
+  {
+    "id": "q_247",
+    "text": "Describe a social or political issue where your opinion has changed significantly over time.",
+    "category": "Social & Political Views",
+    "subcategory": "Perspective Shift",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["opinion change", "growth", "perspective", "evolution"]
+  },
+  {
+    "id": "q_248",
+    "text": "Rate how likely you are to boycott a brand over its political stance or actions.",
+    "category": "Social & Political Views",
+    "subcategory": "Consumer Activism",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["boycott", "consumer activism", "brand politics", "values"]
+  },
+  {
+    "id": "q_249",
+    "text": "How important is it to you that your employer's values align with your personal social and political beliefs?",
+    "category": "Social & Political Views",
+    "subcategory": "Workplace Values",
+    "demographic_focus": "professionals",
+    "answer_type": "rating",
+    "tags": ["employer values", "alignment", "beliefs", "workplace"]
+  },
+  {
+    "id": "q_250",
+    "text": "Which forms of civic participation have you engaged in during the past two years?",
+    "category": "Social & Political Views",
+    "subcategory": "Civic Engagement",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["civic participation", "voting", "petition", "town hall"]
+  },
+  {
+    "id": "q_251",
+    "text": "Rank the following sources of social influence on your views: friends and peers, social media, academic research, religious or spiritual community, family.",
+    "category": "Social & Political Views",
+    "subcategory": "Social Influence",
+    "demographic_focus": "gen_z",
+    "answer_type": "ranking",
+    "tags": ["social influence", "peers", "social media", "family"]
+  },
+  {
+    "id": "q_252",
+    "text": "Do you believe universal basic income is a viable policy for addressing economic inequality?",
+    "category": "Social & Political Views",
+    "subcategory": "Economic Policy",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["UBI", "universal basic income", "economic policy", "inequality"]
+  },
+  {
+    "id": "q_253",
+    "text": "What role should government play in regulating artificial intelligence and emerging technologies?",
+    "category": "Social & Political Views",
+    "subcategory": "Tech Regulation",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["AI regulation", "government", "technology policy", "oversight"]
+  },
+  {
+    "id": "q_254",
+    "text": "Rate your level of trust in democratic institutions in your country.",
+    "category": "Social & Political Views",
+    "subcategory": "Institutional Trust",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["institutional trust", "democracy", "government", "confidence"]
+  },
+  {
+    "id": "q_255",
+    "text": "How important is intergenerational dialogue on social issues within your family?",
+    "category": "Social & Political Views",
+    "subcategory": "Family & Society",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["intergenerational", "family dialogue", "social issues", "values"]
+  },
+  {
+    "id": "q_256",
+    "text": "How concerned are you about climate change and its impact on future generations?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Climate Change",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["climate change", "global warming", "future generations", "concern"]
+  },
+  {
+    "id": "q_257",
+    "text": "Which environmentally friendly practices do you follow in your daily life?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Sustainable Habits",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["eco-friendly", "recycling", "composting", "reusable"]
+  },
+  {
+    "id": "q_258",
+    "text": "How often do you actively recycle household waste?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Recycling",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["recycling", "waste management", "household", "habit"]
+  },
+  {
+    "id": "q_259",
+    "text": "Rank the following environmental issues by urgency: ocean pollution, deforestation, air quality, biodiversity loss, freshwater scarcity.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Environmental Issues",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["environmental issues", "pollution", "deforestation", "biodiversity"]
+  },
+  {
+    "id": "q_260",
+    "text": "Describe what sustainability means to you in the context of your daily choices.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Sustainability Mindset",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["sustainability", "daily choices", "mindset", "conscious living"]
+  },
+  {
+    "id": "q_261",
+    "text": "How willing are you to pay more for products made from sustainably sourced materials?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Sustainable Consumption",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["sustainable sourcing", "premium", "willingness to pay", "eco"]
+  },
+  {
+    "id": "q_262",
+    "text": "Which renewable energy sources do you support or actively use?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Renewable Energy",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["renewable energy", "solar", "wind", "green energy"]
+  },
+  {
+    "id": "q_263",
+    "text": "Rate how much corporate environmental responsibility influences your purchasing decisions.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Corporate Responsibility",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["corporate responsibility", "green business", "ESG", "purchasing"]
+  },
+  {
+    "id": "q_264",
+    "text": "Rank the following personal actions by environmental impact: reducing meat consumption, using public transit, reducing energy consumption, avoiding single-use plastics, buying local.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Personal Impact",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["personal impact", "carbon footprint", "lifestyle change"]
+  },
+  {
+    "id": "q_265",
+    "text": "What changes would make it easier for you to adopt a more environmentally sustainable lifestyle?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Barriers to Sustainability",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["barriers", "sustainable lifestyle", "accessibility", "cost"]
+  },
+  {
+    "id": "q_266",
+    "text": "How often do you choose products with minimal or eco-friendly packaging?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Packaging",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["eco-friendly packaging", "plastic-free", "minimal waste"]
+  },
+  {
+    "id": "q_267",
+    "text": "Which environmental organizations or movements are you aware of or support?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Environmental Advocacy",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["environmental organizations", "advocacy", "NGO", "movement"]
+  },
+  {
+    "id": "q_268",
+    "text": "Rate your interest in electric or hybrid vehicles as your next car purchase.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Green Transportation",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["electric vehicle", "EV", "hybrid", "green transportation"]
+  },
+  {
+    "id": "q_269",
+    "text": "How important is access to green spaces and nature in your choice of where to live?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Green Spaces",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["green spaces", "nature", "parks", "urban planning"]
+  },
+  {
+    "id": "q_270",
+    "text": "Rank the following government environmental policies by importance to you: carbon tax, plastic ban, renewable energy subsidies, conservation funding, emission standards.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Environmental Policy",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["environmental policy", "carbon tax", "regulation", "government"]
+  },
+  {
+    "id": "q_271",
+    "text": "Do you actively track or try to reduce your personal carbon footprint?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Carbon Footprint",
+    "demographic_focus": "millennials",
+    "answer_type": "single_selection",
+    "tags": ["carbon footprint", "tracking", "reduction", "awareness"]
+  },
+  {
+    "id": "q_272",
+    "text": "Which food-related environmental practices do you follow?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Sustainable Food",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["sustainable food", "local produce", "food waste", "organic"]
+  },
+  {
+    "id": "q_273",
+    "text": "Rate how much information about a product's environmental impact influences your buying decision.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Eco-Labeling",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["eco-label", "environmental impact", "transparency", "product info"]
+  },
+  {
+    "id": "q_274",
+    "text": "How do you feel about the pace of corporate action on environmental sustainability?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Corporate Action",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["corporate sustainability", "greenwashing", "pace", "accountability"]
+  },
+  {
+    "id": "q_275",
+    "text": "How likely are you to support a local business specifically because of its environmental practices?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Local & Sustainable Business",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["local business", "environmental practices", "support", "community"]
+  },
+  {
+    "id": "q_276",
+    "text": "Rank the following by how much they motivate you to act on environmental issues: scientific data, personal health, financial savings, community pressure, emotional connection to nature.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Motivation",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["motivation", "environmental action", "science", "health"]
+  },
+  {
+    "id": "q_277",
+    "text": "Do you consider the environmental impact of your travel choices such as flying versus taking a train?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Green Transportation",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["travel impact", "flying", "train", "carbon emissions"]
+  },
+  {
+    "id": "q_278",
+    "text": "Which home energy-saving measures have you implemented?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Energy Efficiency",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["energy saving", "LED", "insulation", "smart thermostat"]
+  },
+  {
+    "id": "q_279",
+    "text": "Rate your trust in corporate sustainability claims and environmental certifications.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Greenwashing",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["greenwashing", "trust", "certification", "claims"]
+  },
+  {
+    "id": "q_280",
+    "text": "How has growing up with information about climate change shaped your life decisions?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Climate Anxiety",
+    "demographic_focus": "gen_z",
+    "answer_type": "open_ended",
+    "tags": ["climate anxiety", "life decisions", "gen_z", "future outlook"]
+  },
+  {
+    "id": "q_281",
+    "text": "How important is it for your children's school to incorporate environmental education?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Environmental Education",
+    "demographic_focus": "parents",
+    "answer_type": "rating",
+    "tags": ["environmental education", "school", "children", "awareness"]
+  },
+  {
+    "id": "q_282",
+    "text": "Do you participate in community clean-up events or environmental restoration projects?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Community Action",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["community clean-up", "restoration", "volunteering", "local"]
+  },
+  {
+    "id": "q_283",
+    "text": "Which water conservation practices do you follow at home?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Water Conservation",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["water conservation", "drought", "usage reduction", "home"]
+  },
+  {
+    "id": "q_284",
+    "text": "Rank the following emerging green technologies by how promising you find them: carbon capture, lab-grown meat, green hydrogen, advanced nuclear, biodegradable materials.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Green Technology",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["green tech", "carbon capture", "lab-grown meat", "innovation"]
+  },
+  {
+    "id": "q_285",
+    "text": "Rate how much the fast fashion industry's environmental impact concerns you.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Fashion & Environment",
+    "demographic_focus": "gen_z",
+    "answer_type": "rating",
+    "tags": ["fast fashion", "environmental impact", "textile waste", "concern"]
+  },
+  {
+    "id": "q_286",
+    "text": "How often do you use reusable bags, bottles, and containers instead of single-use alternatives?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Waste Reduction",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["reusable", "single-use plastic", "waste reduction", "habit"]
+  },
+  {
+    "id": "q_287",
+    "text": "What would most effectively encourage you to reduce your household energy consumption?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Energy Efficiency",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["energy reduction", "incentive", "behavior change", "household"]
+  },
+  {
+    "id": "q_288",
+    "text": "Which of the following have you reduced or eliminated for environmental reasons?",
+    "category": "Environmental Attitudes",
+    "subcategory": "Lifestyle Changes",
+    "demographic_focus": "millennials",
+    "answer_type": "multiple_selection",
+    "tags": ["lifestyle change", "meat reduction", "flying less", "minimalism"]
+  },
+  {
+    "id": "q_289",
+    "text": "Rate how optimistic you are that humanity will successfully address climate change.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Climate Outlook",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["climate optimism", "hope", "future", "collective action"]
+  },
+  {
+    "id": "q_290",
+    "text": "Rank the following stakeholders by who should bear the most responsibility for environmental protection: individuals, corporations, governments, international organizations, scientific community.",
+    "category": "Environmental Attitudes",
+    "subcategory": "Responsibility",
+    "demographic_focus": "general",
+    "answer_type": "ranking",
+    "tags": ["responsibility", "stakeholders", "accountability", "environment"]
+  },
+  {
+    "id": "q_291",
+    "text": "How do you decide which charities or causes receive your financial support?",
+    "category": "Social & Political Views",
+    "subcategory": "Philanthropy",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["charity decision", "philanthropy", "giving strategy", "impact"]
+  },
+  {
+    "id": "q_292",
+    "text": "Rate how informed you feel about data privacy laws and your digital rights.",
+    "category": "Technology Usage",
+    "subcategory": "Digital Rights",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["data privacy", "GDPR", "digital rights", "informed"]
+  },
+  {
+    "id": "q_293",
+    "text": "How often do you cook meals inspired by international cuisines?",
+    "category": "Travel & Lifestyle",
+    "subcategory": "Food & Dining",
+    "demographic_focus": "general",
+    "answer_type": "single_selection",
+    "tags": ["international cuisine", "cooking", "food culture", "home chef"]
+  },
+  {
+    "id": "q_294",
+    "text": "Which factors make you most loyal to a specific streaming platform?",
+    "category": "Media & Entertainment",
+    "subcategory": "Platform Loyalty",
+    "demographic_focus": "general",
+    "answer_type": "multiple_selection",
+    "tags": ["platform loyalty", "exclusive content", "UI", "price"]
+  },
+  {
+    "id": "q_295",
+    "text": "Rank the following retirement concerns: healthcare costs, insufficient savings, loneliness, loss of purpose, housing affordability.",
+    "category": "Financial Behavior",
+    "subcategory": "Retirement Planning",
+    "demographic_focus": "seniors",
+    "answer_type": "ranking",
+    "tags": ["retirement concerns", "healthcare", "savings", "aging"]
+  },
+  {
+    "id": "q_296",
+    "text": "Rate your comfort level with sharing personal survey data for academic or market research.",
+    "category": "Social & Political Views",
+    "subcategory": "Data & Privacy",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["survey data", "privacy", "research", "consent"]
+  },
+  {
+    "id": "q_297",
+    "text": "How do you stay motivated to pursue long-term career goals during challenging periods?",
+    "category": "Employment & Career",
+    "subcategory": "Resilience",
+    "demographic_focus": "professionals",
+    "answer_type": "open_ended",
+    "tags": ["motivation", "resilience", "career goals", "perseverance"]
+  },
+  {
+    "id": "q_298",
+    "text": "Which types of content creators do you follow most actively on social media?",
+    "category": "Media & Entertainment",
+    "subcategory": "Creator Economy",
+    "demographic_focus": "gen_z",
+    "answer_type": "multiple_selection",
+    "tags": ["content creators", "influencers", "YouTube", "TikTok"]
+  },
+  {
+    "id": "q_299",
+    "text": "Rate how important financial independence is to your overall sense of well-being.",
+    "category": "Financial Behavior",
+    "subcategory": "Financial Well-being",
+    "demographic_focus": "general",
+    "answer_type": "rating",
+    "tags": ["financial independence", "FIRE", "well-being", "freedom"]
+  },
+  {
+    "id": "q_300",
+    "text": "Describe a recent experience where technology significantly improved or worsened your daily routine.",
+    "category": "Technology Usage",
+    "subcategory": "Tech Impact",
+    "demographic_focus": "general",
+    "answer_type": "open_ended",
+    "tags": ["tech impact", "daily routine", "improvement", "frustration"]
+  }
+]
