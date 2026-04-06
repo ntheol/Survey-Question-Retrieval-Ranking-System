@@ -44,6 +44,11 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
+or
+
+```bash
+pip install -e .
+```
 3. Set your OpenAI API key in the environment.
 
 ```bash
